@@ -51,7 +51,7 @@
 
 ### 🚀 About Me:
 
-- 🔭 I’m currently working on **[My Voice Assistant Project](https://github.com/danyQe/FRIDAY)** using Gemini 1.0 Pro LLM API.
+- 🔭 I  recently worked on **[My Voice Assistant Project](https://github.com/danyQe/FRIDAY)** using Gemini 1.0 Pro LLM API.
 - 🌱 I’m currently learning **IoT systems and advanced Python** to take my project to the next level.
 - 💬 Ask me about **Machine Learning, Computer Vision, LLM integration, and Web Development**.
 - 👯 I’m looking to collaborate on **AI and IoT open-source projects**.
